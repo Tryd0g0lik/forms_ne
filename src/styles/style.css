@@ -1,0 +1,29 @@
+div {
+  display: none;
+  width: 275px;
+  height: 95px;
+  border: solid 1px #ccc;
+  border-radius: 3px;
+  z-index: 0;
+}
+
+
+div.active {
+  position: relative;
+  display: inline-block;
+}
+
+div.active::before {
+  display: inline-block;
+  content: '';
+  border: solid 2px #26292d;
+  border: 0 0 0 2px;
+  height: 22px;
+
+  position: absolute;
+  left: -4px;
+  top: 25px;
+  z-index: 2;
+}
+
+div.active::after {}

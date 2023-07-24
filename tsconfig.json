@@ -27,7 +27,7 @@
     /* Modules */
     "module": "commonjs", /* Укажите, какой код модуля генерируется.*/
     "baseUrl": "./src", /* Укажите базовый каталог для разрешения не относительных имен модулей.*/
-    "rootDir": "./src/ts", /* Укажите корневую папку в ваших исходных файлах. Обычно './' or ./src'*/
+    "rootDir": "./src", /* Укажите корневую папку в ваших исходных файлах. Обычно './' or ./src'*/
     // "moduleResolution": "node10",                     /* Specify how TypeScript looks up a file from a given module specifier. */
     // "paths": {	}, /*Укажите набор записей, которые повторно сопоставляют импорт с дополнительными местоположениями поиска.*/
     // "rootDirs": [],                                   /* Allow multiple folders to be treated as one when resolving modules. */
