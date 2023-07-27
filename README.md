@@ -1,5 +1,4 @@
-
-[Look the www-page](https://tryd0g0lik.github.io/frontend_testing_net/) [![Build status](https://ci.appveyor.com/api/projects/status/rm29bx779xbway5p?svg=true)](https://ci.appveyor.com/project/Tryd0g0lik/forms-ne/branch/master)
+ [![Build status](https://ci.appveyor.com/api/projects/status/rm29bx779xbway5p?svg=true)](https://ci.appveyor.com/project/Tryd0g0lik/forms-ne/branch/master)
 # Домашнее задание к занятию "Работа с HTML-формами"
 
 Правила сдачи задания:
