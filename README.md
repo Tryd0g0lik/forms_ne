@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/otlmi5rswvssef5f/branch/main?svg=true)](https://ci.appveyor.com/project/Tryd0g0lik/forms-ne/branch/main)
 # Домашнее задание к занятию "Работа с HTML-формами"
 
 Правила сдачи задания:
